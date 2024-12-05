@@ -1,0 +1,6 @@
+.bnn{
+    background-color: red;height: 20vh; width: 20vh; 
+}
+.bnn.open{
+    display: none;
+}
